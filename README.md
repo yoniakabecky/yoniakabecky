@@ -1,4 +1,12 @@
-### Hi there 👋
+<h3 align="center">Hi there, I'm Yoni 👋 </h3>
+  
+<p align="center">I'm a Jr frontend web developer based in Vancouver, BC.</p>
+
+<p align="center">
+  <a href="https://github.com/yoniakabecky"><img src="https://img.shields.io/badge/github-444?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/yoniakabecky/"><img src="https://img.shields.io/badge/linkedin-444?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/yoniakabecky/"><img src="https://img.shields.io/badge/instagram-444?style=for-the-badge&logo=instagram " alt="Instagram"></a>
+</p>
 
 <!--
 **yoniakabecky/yoniakabecky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
