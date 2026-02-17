@@ -7,7 +7,7 @@
 😊 Mostly work with: `.tsx`, `.ts`, `.js`, `.html`, `.css`  
 🥸 Recently studying: `.svelte`, `.liquid`, `.go`
 
-🎨 Sometime I design and draw things with Figma and Affinity Desingner.
+🎨 Sometime I design and draw things with Figma and Affinity Desingner 2.
 
 #### Ping me 🤪
 
