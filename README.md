@@ -2,12 +2,13 @@
 
 <img src="https://media.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" width="240px" align="right" hspace="20" alt="@kanahei" />
 
-<h4>A web developer, a traveler and beer lover 🍻 </h4>
+<h4>A web developer, a traveler, and a beer lover 🍻 </h4>
 
-😊 Mostly work with: `.tsx`, `.ts`, `.js`, `.html`, `.css`  
-🥸 Recently studying: `.svelte`, `.liquid`, `.go`
+😊 Mostly work with: `.tsx` `.ts` `.js` `.css` `.html`  
+🥸 Recently studying: `.svelte` `.liquid` `.go`
 
-🎨 Sometime I design and draw things with Figma and Affinity Desingner 2.
+🎨 Sometime I design and draw things with Figma and Affinity Desingner 2.  
+🍺 My favorite beer style is sour.  
 
 #### Ping me 🤪
 
